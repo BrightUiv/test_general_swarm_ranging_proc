@@ -1,5 +1,10 @@
 #include <stdlib.h>
 #include <stdio.h>
+typedef struct hello
+{
+    int b;
+};
+
 int main()
 {
     printf("hello version 2\n");
