@@ -3,6 +3,7 @@
 typedef struct hello
 {
     int a;
+    int a_master;
 } node;
 
 int main()
