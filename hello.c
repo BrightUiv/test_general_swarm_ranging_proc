@@ -2,9 +2,11 @@
 #include <stdio.h>
 typedef struct hello
 {
+    int a;
+    int a_master;
     int b;
     int b_merge;
-};
+} node;
 
 int main()
 {
