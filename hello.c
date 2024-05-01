@@ -3,6 +3,7 @@
 typedef struct hello
 {
     int b;
+    int b_merge;
 };
 
 int main()
